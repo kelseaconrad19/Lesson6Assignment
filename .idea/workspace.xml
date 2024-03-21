@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76cf54a1-ec29-4f3a-a126-18e89f1aa993" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lesson6Assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductReviewAnalysis.py" afterDir="false" />
+    <list default="true" id="76cf54a1-ec29-4f3a-a126-18e89f1aa993" name="Changes" comment="add code to Github file">
+      <change afterPath="$PROJECT_DIR$/UserInputDataProcessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ProductReviewAnalysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.trial.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ProductReviewAnalysis.executor": "Run",
+    "Python.UserInputDataProcessor.executor": "Run",
+    "Python.trial.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ProductReviewAnalysis" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Lesson6Assignment" />
@@ -87,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710896578170</updated>
     </task>
+    <task id="LOCAL-00001" summary="add code to Github file">
+      <option name="closed" value="true" />
+      <created>1711040467479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711040467479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add code to Github file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add code to Github file" />
   </component>
 </project>
