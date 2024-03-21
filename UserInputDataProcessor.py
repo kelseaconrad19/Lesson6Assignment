@@ -29,6 +29,7 @@
 
 # Task 3: Email Formatter
 # Implement a script that ensures all user email addresses are in a standard format
+# Ask what this means. It doesn't seem hard. I just don't know exactly what they want because what I have below looks too easy.
 def email_formatter(user_email):
     return user_email.lower()
 

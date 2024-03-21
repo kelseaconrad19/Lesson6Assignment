@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76cf54a1-ec29-4f3a-a126-18e89f1aa993" name="Changes" comment="add code to Github file">
-      <change afterPath="$PROJECT_DIR$/UserInputDataProcessor.py" afterDir="false" />
+    <list default="true" id="76cf54a1-ec29-4f3a-a126-18e89f1aa993" name="Changes" comment="add code to Github file&#10;UserInput assignment">
+      <change afterPath="$PROJECT_DIR$/HelpDeskBot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserInputDataProcessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserInputDataProcessor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.HelpDeskBot.executor": "Run",
     "Python.ProductReviewAnalysis.executor": "Run",
     "Python.UserInputDataProcessor.executor": "Run",
     "Python.trial.executor": "Run",
@@ -90,11 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1711040467479</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add code to Github file&#10;UserInput assignment">
+      <option name="closed" value="true" />
+      <created>1711045158945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711045158945</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add code to Github file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add code to Github file" />
+    <MESSAGE value="add code to Github file&#10;UserInput assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add code to Github file&#10;UserInput assignment" />
   </component>
 </project>
