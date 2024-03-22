@@ -7,6 +7,7 @@
     <list default="true" id="76cf54a1-ec29-4f3a-a126-18e89f1aa993" name="Changes" comment="add code to Github file&#10;UserInput assignment&#10;HelpDeskBot completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductReviewAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProductReviewAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserInputDataProcessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserInputDataProcessor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,8 @@
     "Python.trial.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager">
@@ -107,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711048071101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add code to Github file&#10;UserInput assignment&#10;HelpDeskBot completed">
+      <option name="closed" value="true" />
+      <created>1711069427532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711069427532</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
