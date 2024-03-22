@@ -33,8 +33,8 @@ reviews = [
     "Poor quality product. Wouldn't recommend it to anyone.",
     "The product was average. Nothing extraordinary about it."
 ]
-positive_words = ["good", "excellent", "Highly recommended", "impressed", "fantastic", "superb", "amazing"]
-negative_words = ["bad", "average", "didn't meet", "horrible", "awful", "disappointing", "subpar"]
+positive_words = ["good", "excellent", "great", "awesome", "fantastic", "superb", "amazing"]
+negative_words = ["bad", "poor", "terrible", "horrible", "awful", "disappointing", "subpar"]
 words = ["good", "excellent", "bad", "poor", "average"]
 
 for review in reviews:

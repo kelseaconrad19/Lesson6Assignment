@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76cf54a1-ec29-4f3a-a126-18e89f1aa993" name="Changes" comment="add code to Github file&#10;UserInput assignment">
-      <change afterPath="$PROJECT_DIR$/HelpDeskBot.py" afterDir="false" />
+    <list default="true" id="76cf54a1-ec29-4f3a-a126-18e89f1aa993" name="Changes" comment="add code to Github file&#10;UserInput assignment&#10;HelpDeskBot completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserInputDataProcessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserInputDataProcessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductReviewAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProductReviewAnalysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,12 +99,32 @@
       <option name="project" value="LOCAL" />
       <updated>1711045158945</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add code to Github file&#10;UserInput assignment&#10;HelpDeskBot completed">
+      <option name="closed" value="true" />
+      <created>1711048071101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711048071101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add code to Github file" />
     <MESSAGE value="add code to Github file&#10;UserInput assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="add code to Github file&#10;UserInput assignment" />
+    <MESSAGE value="add code to Github file&#10;UserInput assignment&#10;HelpDeskBot completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="add code to Github file&#10;UserInput assignment&#10;HelpDeskBot completed" />
   </component>
 </project>
